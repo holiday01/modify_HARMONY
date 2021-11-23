@@ -1,4 +1,4 @@
 # modify_HARMONY
-程式碼是來自 "https://github.com/oncobox-admin/harmony"，在使用上，無法配合新版的R，因此，我將所有程式碼簡化後，讓大家可以簡單地執行。
+程式碼是來自 https://github.com/oncobox-admin/harmony ，因為R版本過舊會導致無法執行，因此，我把程式碼做過整理後，寫在function.R當中，主要程式是執行harmony.R這隻程式。
 
 如果要修改程式碼內容，可以從"function.R"程式碼下手。
